@@ -7,6 +7,7 @@
 - 개발도구 : Visual studio 2019 or Cmake
 
 ### Project Setting
+- 플랫폼 : ARM 사용(32bit)
 - 정적 라이브러리 셋팅
     
   cppcore 등 외부에서 만든 라이브러리를 WSL Ubuntu에 /usr/local/lib로 옮겨야한다.
